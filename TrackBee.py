@@ -15,7 +15,7 @@ def main():
     # USER PARAMETERS:
     #
     results_type = "contour"  # Options: raw, mask, contour, box, track
-    input_video_path = "/home/nbonnie/Research/TrackBee/output.mp4"
+    input_video_path = "/home/nbonnie/Research/TrackBee/input.mp4"
     write_ouput_to_file = False
     ouput_video_fps = 10
     ouput_video_path = "/home/nbonnie/Research/TrackBee/contour.mp4"
