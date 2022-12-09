@@ -1,5 +1,5 @@
 # TrackBee
-Computer vision software for tracking individual warm bees in a swarm.
+Computer vision software for tracking individual hot bees in a swarm.
 
 # Dependencies
 opencv-python  
